@@ -30,7 +30,7 @@
     "tailwindcss": "^4.1.18",
     "vite": "^5.4.0"
   },
-  "overrides": {
-    "vite": "npm:rolldown-vite@7.2.5"
+  "engines": {
+    "node": ">=20"
   }
 }
