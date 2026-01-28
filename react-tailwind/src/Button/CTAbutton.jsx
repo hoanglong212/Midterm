@@ -1,4 +1,4 @@
-function CTAbutton({context}) {
+function CTAbutton({ context }) {
   return (
     <button
       className="
@@ -22,6 +22,8 @@ function CTAbutton({context}) {
             opacity-0 translate-x-2
             transition-all duration-500
             group-hover:opacity-100 group-hover:translate-x-0
+            hover:scale-105
+
             text-2xl
           "
         >
@@ -29,7 +31,7 @@ function CTAbutton({context}) {
         </span>
       </span>
     </button>
-  );
+  )
 }
 
-export default CTAbutton; 
+export default CTAbutton
