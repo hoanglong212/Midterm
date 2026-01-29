@@ -1,4 +1,4 @@
-import Website from './Website'
+import Website from './website'
 
 function App() {
   return (
