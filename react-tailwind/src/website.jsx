@@ -1,6 +1,6 @@
 import Homepage from './Homepage'
 import Features from './Features'
-import Footer from './Footer'
+import Footer from './footer'
 
 export default function Website() {
   return (
