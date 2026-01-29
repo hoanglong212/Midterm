@@ -1,5 +1,5 @@
-import GenButton from '../Button/GenButton'
-import CTAButton from '../Button/CTAButton'
+import GenButton from '../Button/Genbutton'
+import CTAButton from '../Button/CTAbutton'
 import StarEffect from './StarEffect'
 
 export default function HeroSection() {
