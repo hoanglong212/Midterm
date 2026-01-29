@@ -1,4 +1,4 @@
-import CTAbutton from '../Button/CTAbutton'
+import CTAButton from '../Button/CTAButton'
 import decor from '../assets/decor.png'
 
 export default function CreateAccount() {
@@ -33,7 +33,7 @@ export default function CreateAccount() {
           </span>
 
           <div className="flex justify-center mt-10">
-            <CTAbutton context="Create an Account" />
+            <CTAButton context="Create an Account" />
           </div>
         </div>
       </div>

@@ -1,15 +1,13 @@
-import Homepage from './homepage'
-import Features from './features'
-import Footer from './footer'
+import Homepage from './Homepage'
+import Features from './Features'
+import Footer from './Footer'
 
 export default function Website() {
   return (
-    <>
-      <div className="flex flex-col py-20 md:py-32">
-        <Homepage></Homepage>
-        <Features></Features>
-        <Footer></Footer>
-      </div>
-    </>
+    <div className="flex flex-col bg-black">
+      <Homepage />
+      <Features />
+      <Footer />
+    </div>
   )
 }

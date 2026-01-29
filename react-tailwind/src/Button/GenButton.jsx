@@ -1,6 +1,6 @@
 import wand from '../assets/mdi_wand.png'
 
-export default function GenBTN({ context }) {
+export default function GenButton({ context }) {
   return (
     <button className="group relative inline-flex items-center gap-2 rounded-full border border-white bg-transparent px-6 py-4 text-whiteover flow-hidden">
       <span className="relative h-5 overflow-hidden">

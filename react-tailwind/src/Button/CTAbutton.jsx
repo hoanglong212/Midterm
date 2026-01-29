@@ -1,4 +1,4 @@
-function CTAbutton({ context }) {
+function CTAButton({ context }) {
   return (
     <button
       className="
@@ -34,4 +34,4 @@ function CTAbutton({ context }) {
   )
 }
 
-export default CTAbutton
+export default CTAButton

@@ -1,5 +1,5 @@
-import CTAbutton from '../Button/CTAbutton'
-import GenBTN from '../Button/GenBTN'
+import CTAButton from '../Button/CTAButton'
+import GenButton from '../Button/GenButton'
 
 export default function SeeTrendingPrompt() {
   return (
@@ -12,8 +12,8 @@ export default function SeeTrendingPrompt() {
           document or URL. All within a sleek, futuristic design. Create more, effortlessly.
         </span>
         <div className="gap-7 flex">
-          <GenBTN context={'Start Generating'}></GenBTN>
-          <CTAbutton context={'Download'}></CTAbutton>
+          <GenButton context={'Start Generating'}></GenButton>
+          <CTAButton context={'Download'}></CTAButton>
         </div>
       </div>
     </>

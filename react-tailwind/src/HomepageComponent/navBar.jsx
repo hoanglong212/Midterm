@@ -1,6 +1,4 @@
-import { useState } from 'react'
-import vector from '../assets/Vector.png'
-import CTAbutton from '../Button/CTAbutton'
+import CTAButton from '../Button/CTAButton'
 
 export default function Navbar() {
   return (
@@ -30,7 +28,7 @@ export default function Navbar() {
         <span>Team</span>
         <span>Pricing</span>
         <span>Buy Premium</span>
-        <CTAbutton context={'Get Started'} />
+        <CTAButton context={'Get Started'} />
       </div>
     </div>
   )

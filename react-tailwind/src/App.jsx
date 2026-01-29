@@ -1,12 +1,9 @@
-import { useState } from 'react'
-import Website from './website'
+import Website from './Website'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-    <Website/>
+      <Website />
     </>
   )
 }
