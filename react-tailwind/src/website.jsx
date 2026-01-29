@@ -1,5 +1,5 @@
-import Homepage from './homepage'
-import Features from './features'
+import Homepage from './Homepage'
+import Features from './Features'
 import Footer from './footer'
 
 export default function Website() {
