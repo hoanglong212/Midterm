@@ -1,10 +1,10 @@
-import FooterNavigation from './Footer/FooterNavigation'
-import FooterAbout from './Footer/FooterAbout'
-import FooterContact from './Footer/FooterContact'
-import FooterSocial from './Footer/FooterSocial'
-import FooterChat from './Footer/FooterChat'
-import FooterLocation from './Footer/FooterLocation'
-import FooterBottomBar from './Footer/FooterBottomBar'
+import FooterNavigation from './FooterNavigation'
+import FooterAbout from './FooterAbout'
+import FooterContact from './FooterContact'
+import FooterSocial from './FooterSocial'
+import FooterChat from './FooterChat'
+import FooterLocation from './FooterLocation'
+import FooterBottomBar from './FooterBottomBar'
 
 export default function Footer() {
   return (
