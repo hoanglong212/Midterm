@@ -1,4 +1,4 @@
-import Homepage from './Homepage'
+import Homepage from './homepage'
 import Features from './Features'
 import Footer from './footer'
 
