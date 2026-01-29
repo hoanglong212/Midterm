@@ -1,4 +1,4 @@
-import GenButton from '../Button/Genbutton'
+import GenButton from '../Button/GenButton'
 import CTAButton from '../Button/CTAbutton'
 import StarEffect from './StarEffect'
 
