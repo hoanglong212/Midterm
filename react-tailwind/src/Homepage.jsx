@@ -1,7 +1,7 @@
 import Navbar from './HomepageComponent/Navbar'
 import HeroSection from './HomepageComponent/HeroSection'
 import biglogo from './assets/biglogo.png'
-import Video from './FeatureComponents/Video'
+import Video from './FeatureComponents/video'
 
 export default function Homepage() {
   return (
